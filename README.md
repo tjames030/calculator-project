@@ -1,4 +1,5 @@
 # calculator-project
+
 from fractions import Fraction
 
 def get_number(prompt):
